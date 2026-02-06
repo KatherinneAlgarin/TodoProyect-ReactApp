@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TodoProyect-ReactApp/static/css/main.2b2152ef.css",
+    "main.js": "/TodoProyect-ReactApp/static/js/main.9f25b648.js",
+    "index.html": "/TodoProyect-ReactApp/index.html",
+    "static/media/delete.svg": "/TodoProyect-ReactApp/static/media/delete.67697f56fd2f149bc9515a879062ad5c.svg",
+    "static/media/check.svg": "/TodoProyect-ReactApp/static/media/check.23109d14544b9bb9b3d5d4e65ea13701.svg",
+    "main.2b2152ef.css.map": "/TodoProyect-ReactApp/static/css/main.2b2152ef.css.map",
+    "main.9f25b648.js.map": "/TodoProyect-ReactApp/static/js/main.9f25b648.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2b2152ef.css",
+    "static/js/main.9f25b648.js"
+  ]
+}
