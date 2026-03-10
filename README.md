@@ -13,6 +13,10 @@ Abrir [http://localhost:3000](http://localhost:3000) para verlo en el navegador.
 
 La página se recargará si realizas cambios y lo guardas.
 
+## Proyecto en producción
+Para ver el proyecto son cloarlo ni ejecutarlo solo accede al link
+https://katherinnealgarin.github.io/TodoProyect-ReactApp/
+
 ### Mejora continua...
 Para este proyecto aún se está buscanso mejorar la experiencia y funcionalidad con la implementacion e integracion de tecnologias de diseño, manejo de datos; para mejorar la usabilidad y experiencia.
 
